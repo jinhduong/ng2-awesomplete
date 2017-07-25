@@ -2,6 +2,8 @@
 
 ![ng2-awesomplete](http://i.imgur.com/VSLmh6e.png)
 
+`npm install ng2-awesomplete --save`
+
 Angular wrapper for [Awesomplete](http://leaverou.github.io/awesomplete/#basic-usage)
 - No dependencies
 - Easy to use
@@ -81,3 +83,5 @@ interface AwesompleteOptions {
     data?: any;
 };
 ```
+
+Thanks.
